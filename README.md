@@ -19,7 +19,7 @@ funcionalidades cambiándoles el rol.
 datos que obtuvieron mediante las observaciones en las actividades.
 + Visualizar los datos en las funcionalidades de la aplicación
 
-# Diagrama de modelo entidad-relación
+# Diagrama entidad-relación
 <br></br>
 
 <img src="https://github.com/diegobytes/Leaf/blob/main/img/mer.jpg" alt="mer" style="float: left; margin-right: 10px;"/>
